@@ -14,5 +14,7 @@ Ce projet consiste à développer une API automatisée capable d'extraire des do
 **Avantages par rapport au Scraping Classique :**
 
 ✅ Moins de risques de blocage (les API sont conçues pour être interrogées).
+
 ✅ Données plus propres et structurées (pas besoin de parser du HTML). 
+
 ✅ Performances accrues (les API répondent plus vite qu'une page web chargée via Selenium).
