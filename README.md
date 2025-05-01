@@ -1,5 +1,4 @@
 # API-Web-Scraping-E-Commerce-Product-Data
---------------------------------------------
 
 Ce projet consiste à développer une API automatisée capable d'extraire des données produits (prix, descriptions, images, avis clients, etc.) à partir de sites e-commerce comme Amazon, eBay ou Shopify, en combinant des techniques de web scraping et d'intégration d'API existantes. Contrairement au scraping traditionnel (BeautifulSoup, Selenium), cette solution utilise des API publiques ou privées (lorsqu'elles sont disponibles) pour récupérer les données de manière plus fiable et légale, tout en évitant les blocages liés aux protections anti-bot.
 
